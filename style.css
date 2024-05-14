@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1rem;
+}
+
+ul{
+    display: flexbox;
+    justify-content: space-between;
+    align-items: stretch ;
+    text-align: left;
+    padding-block: 2rem;
+    background-color: bisque;
+}
+li{
+    display: flexbox;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#beefwellington{
+    color: brown;
+}
+#parmesan{
+    color:purple;
+}
+#porkolt{
+    color:darkgreen;
+
+}
